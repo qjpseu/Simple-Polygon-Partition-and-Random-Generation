@@ -77,7 +77,7 @@ If checked, the triangulation is displayed.
 The “Ruler” checkbox:
 If checked, If the ruler is displayed on the left and bottom side of the drawing (see figures above). Otherwise, the ruler is not displayed.
 
- <img width="743" height="561" alt="image" src="https://github.com/user-attachments/assets/594419ff-9f79-472e-9da3-f3f4750d68c6" />
+<img width="743" height="561" alt="image" src="https://github.com/user-attachments/assets/43c4a545-c27e-4d46-91fe-16b4e9c274d9" />
 
 “Ruler” checkbox is unchecked
 
