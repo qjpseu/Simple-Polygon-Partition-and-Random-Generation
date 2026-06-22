@@ -131,7 +131,7 @@ If “Autoplay” is unchecked, you can zoom in or out of the graph by turning t
 
 
 The “VertNo.” text field:
-Enter the number of vertices of the auto-generated polygon (when the “Random” button is pressed). For the “Random” form, this value is an approximate control number: when the number of vertices reaches this value, the program starts looking for the starting point to close the polygon. So, the final number of the vertices of the polygon is greater than this (The maximum of the VertNo. is limited by computer memory, for 40 million vertices should occupy about 11GB memory). For the "TwoOpt" form, this number is suggested less than 10000. If the “Closed” checkbox is unchecked, the vertices of the polyline is just this number.
+Enter the number of vertices of the auto-generated polygon (when the “Random” button is pressed). For the “Random” form, this value is an approximate control number: when the number of vertices reaches this value, the program starts looking for the starting point to close the polygon. So, the final number of the vertices of the polygon is greater than this (The maximum of the VertNo. is limited by computer memory, for 40 million vertices should occupy about 12GB memory). For the "TwoOpt" form, this number is suggested less than 10000. If the “Closed” checkbox is unchecked, the vertices of the polyline is just this number.
 
 
 The “Threshold” text field:
