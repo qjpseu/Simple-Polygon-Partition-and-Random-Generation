@@ -11,7 +11,7 @@ The partitioning process is divided into two stages: online and offline. In the 
 
 Installation: 
 Decompress Partition.zip
-Modify the first line in the Partition.bat to set the correct path where the Java program is located, and than, the memory available.
+Modify the first line in the Partition.bat to set the correct path where the Java program is located, and then, the memory available.
 
 
 The interface:
