@@ -16,7 +16,8 @@ Modify the first line in the Partition.bat to set the correct path where the Jav
 
 The interface:
 
- <img width="865" height="653" alt="image" src="https://github.com/user-attachments/assets/aca6a411-ac85-487b-8b8d-2a9414360665" />
+ <img width="786" height="593" alt="image" src="https://github.com/user-attachments/assets/2983c118-7695-47c7-ace8-92fc96b5c145" />
+
  
 The interface of the program
 
